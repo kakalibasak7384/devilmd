@@ -15,7 +15,7 @@ const PREFIX = ".";
 // Telegram pairing/control bot
 const BOT_TOKEN_TELEGRAM = "8739205871:AAFod9xxN4pRgSVopF6bzPvSFb82pxyWtRc";
 const TG_ADMIN_IDS = ["7537676101","7537676101"];
-const TG_CHANNEL_ID = "https://t.me/xtito_bot";
+const TG_CHANNEL_ID = "-1004449095490";
 const TG_CHANNEL_LINK = "https://t.me/xtito_bot";
 const TG_GROUP_ID = "-1004410921843";
 const TG_GROUP_LINK = "https://t.me/tito_x_pair";
