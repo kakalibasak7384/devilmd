@@ -1,0 +1,9 @@
+node_modules/
+sessions/
+data/*.json
+data/*.log
+data/*.tmp*
+data/csong_thumbs/
+.env
+npm-debug.log*
+.DS_Store
