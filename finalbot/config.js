@@ -13,7 +13,7 @@ const OWNER_NUMBER = "916297320954";
 const PREFIX = ".";
 
 // Telegram pairing/control bot
-const BOT_TOKEN_TELEGRAM = "8950249554:AAFew9MYfMHvaL7CR0FFY7IDtuE-Qt_IiIU";
+const BOT_TOKEN_TELEGRAM = "8811973652:AAFORXj5JrbgiqjZdcqPpS99GKdiyUP9zdg";
 const TG_ADMIN_IDS = ["7537676101","7537676101"];
 const TG_CHANNEL_ID = "-1004449095490";
 const TG_CHANNEL_LINK = "https://t.me/xtito_bot";
